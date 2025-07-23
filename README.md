@@ -48,23 +48,25 @@ MindWell bridges this gap by:
 
 ---
 
-## ⚙️ Setup Instructions  
+## ⚙️ Setup Instructions
 
-### 1. Clone the Repository  
-```bash
-git clone https://github.com/anagha29054/Mini_Project.git
-cd Mini_Project
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/anagha29054/Mini_Project.git
+   cd Mini_Project
+   ```
 
-### 2. Backend Setup (FastAPI + ML) 
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
+2. **Backend Setup (FastAPI + ML)**
+   ```bash
+   cd backend
+   pip install -r requirements.txt
+   uvicorn main:app --reload
+   ```
 
-### 3. Frontend Setup (Next.js) 
-```bash
-cd frontend
-npm install
-npm run dev
-
+3. **Frontend Setup (Next.js)**
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
 
